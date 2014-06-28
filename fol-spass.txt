@@ -1,0 +1,50 @@
+--------------------------SPASS-START-----------------------------
+1[0:Inp] || man(U)* -> .
+3[0:Inp] || woman(U)* -> .
+5[0:Inp] || man(U)* -> .
+7[0:Inp] || man(U)* -> .
+9[0:Inp] || woman(U)* -> .
+11[0:Inp] || woman(U)* -> .
+13[0:Inp] || woman(U)* -> .
+15[0:Inp] || woman(U)* -> .
+17[0:Inp] || woman(U)* -> .
+19[0:Inp] || man(U)* -> .
+21[0:Inp] || woman(U)* -> .
+23[0:Inp] || woman(U)* -> .
+25[0:Inp] || woman(U)* -> .
+27[0:Inp] || man(U) -> woman(U)*.
+29[0:Inp] || man(U) -> woman(U)*.
+31[0:Inp] || woman(U)* -> man(U).
+33[0:Inp] || woman(U)* -> man(U).
+35[0:Inp] || woman(U)* -> man(U).
+37[0:Inp] || man(U) -> woman(U)*.
+39[0:Inp] || man(U) -> woman(U)*.
+41[0:Inp] || woman(U)* -> man(U).
+43[0:Inp] || man(U) woman(U)* -> .
+45[0:Inp] || man(U) woman(U)* -> .
+47[0:Inp] || man(U) woman(U)* -> .
+49[0:Inp] || woman(U)* man(U) -> .
+51[0:Inp] || woman(U)* man(U) -> .
+53[0:Inp] || woman(U)* man(U) -> .
+55[0:Inp] || woman(U)* man(U) -> .
+57[0:Inp] || woman(U)* man(U) -> .
+59[0:Inp] || man(U) woman(U)* -> .
+61[0:Inp] || man(U) woman(U)* -> .
+ This is a problem that has, if any, a finite domain model.
+ This is a problem that contains sort information.
+ Inferences: IEmS=1 ISoR=1 IORe=1 
+ Extras    : Input Saturation, Always Selection, No Splitting, Full Reduction,  Ratio: 5, FuncWeight: 1, VarWeight: 1
+ Ordering  : KBO
+
+
+26[0:Inp] man(U) ||  -> .
+	Given clause: 26[0:Inp] man(U) ||  -> .
+SPASS V 3.7 
+Problem: /home/camilo/unison/prolog/dl_lite/spass_lite.txt 
+SPASS allocated 30106 KBytes.
+		0:00:00.02 for the input.
+		0:00:00.00 for inferences.
+		0:00:00.00 for the reduction.
+
+25[0:Inp] woman(U) ||  -> .
+--------------------------SPASS-STOP------------------------------

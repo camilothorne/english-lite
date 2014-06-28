@@ -1,0 +1,149 @@
+
+--------------------------SPASS-START-----------------------------
+Input Problem:
+1[0:Inp] || rules(julian)* -> .
+2[0:Inp] || rules(U)* -> .
+3[0:Inp] || rules(U)* -> .
+4[0:Inp] || cunning(julian)* -> .
+5[0:Inp] || loves(U,julian)* -> .
+6[0:Inp] || loves(U,julian)* -> .
+7[0:Inp] || loves(U,julian)* -> .
+8[0:Inp] || loves(U,julian)* -> .
+9[0:Inp] || loves(U,julian)* -> .
+10[0:Inp] || loves(U,julian)* -> .
+11[0:Inp] || loves(U,julian)* -> .
+12[0:Inp] || loves(U,julian)* -> .
+13[0:Inp] || loves(U,julian)* -> .
+14[0:Inp] || loves(U,julian)* -> .
+15[0:Inp] || loves(U,julian)* -> .
+16[0:Inp] || loves(U,julian)* -> .
+17[0:Inp] || loves(U,julian)* -> .
+18[0:Inp] || loves(U,julian)* -> .
+19[0:Inp] || loves(U,julian)* -> .
+20[0:Inp] || loves(U,mary)* -> .
+21[0:Inp] || loves(U,julian)* -> .
+22[0:Inp] || loves(U,julian)* -> .
+23[0:Inp] || loves(U,julian)* -> .
+24[0:Inp] || loves(U,julian)* -> .
+25[0:Inp] || loves(U,julian)* -> .
+26[0:Inp] || loves(U,julian)* -> .
+27[0:Inp] || loves(U,julian)* -> .
+28[0:Inp] || loves(U,julian)* -> .
+29[0:Inp] || loves(U,julian)* -> .
+30[0:Inp] || loves(U,julian)* -> .
+31[0:Inp] || loves(U,julian)* -> .
+32[0:Inp] || loves(U,julian)* -> .
+33[0:Inp] || loves(U,julian)* -> .
+34[0:Inp] || loves(U,julian)* -> .
+35[0:Inp] || loves(U,julian)* -> .
+36[0:Inp] || loves(U,julian)* -> .
+37[0:Inp] || loves(julian,U)* -> .
+38[0:Inp] || loves(julian,mary)* -> .
+39[0:Inp] || loves(U,V)* -> .
+40[0:Inp] || loves(U,julian)* -> .
+41[0:Inp] || loves(U,V)* -> .
+42[0:Inp] || loves(U,V)* -> .
+43[0:Inp] || loves(U,julian)* -> .
+44[0:Inp] || loves(U,julian)* -> .
+45[0:Inp] || loves(U,julian)* -> .
+46[0:Inp] || loves(U,julian)* -> .
+47[0:Inp] || loves(U,julian)* -> .
+48[0:Inp] || loves(U,julian)* -> .
+49[0:Inp] || loves(U,julian)* -> .
+50[0:Inp] || loves(U,julian)* -> .
+51[0:Inp] || loves(U,julian)* -> .
+52[0:Inp] || loves(U,julian)* -> .
+53[0:Inp] || loves(U,julian)* -> .
+54[0:Inp] || loves(U,julian)* -> .
+55[0:Inp] || loves(U,julian)* -> .
+56[0:Inp] || loves(U,mary)* -> .
+57[0:Inp] || loves(U,mary)* -> .
+58[0:Inp] || loves(U,mary)* -> .
+59[0:Inp] || loves(U,mary)* -> .
+60[0:Inp] || loves(U,mary)* -> .
+61[0:Inp] || loves(U,mary)* -> .
+62[0:Inp] || loves(U,julian)* -> .
+63[0:Inp] || equal__dfg(U,julian)* -> .
+64[0:Inp] || equal__dfg(U,julian)* -> .
+65[0:Inp] || equal__dfg(U,julian)* -> .
+66[0:Inp] || equal__dfg(U,julian)* -> .
+67[0:Inp] || loves(U,julian)* -> .
+68[0:Inp] || loves(U,julian)* -> .
+69[0:Inp] || loves(U,julian)* -> .
+70[0:Inp] || loves(U,julian)* -> .
+71[0:Inp] || loves(U,julian)* -> .
+72[0:Inp] || loves(U,julian)* -> .
+73[0:Inp] || loves(U,julian)* -> .
+74[0:Inp] || loves(U,julian)* -> .
+75[0:Inp] || loves(U,julian)* -> .
+76[0:Inp] || loves(U,julian)* -> .
+77[0:Inp] || loves(U,julian)* -> .
+78[0:Inp] || loves(U,julian)* -> .
+79[0:Inp] || loves(U,julian)* -> .
+80[0:Inp] || loves(U,julian)* -> .
+81[0:Inp] || loves(U,julian)* -> .
+82[0:Inp] || loves(U,julian)* -> .
+83[0:Inp] || loves(U,julian)* -> .
+84[0:Inp] || loves(U,julian)* -> .
+85[0:Inp] || loves(U,julian)* -> .
+86[0:Inp] || loves(U,julian)* -> .
+87[0:Inp] || loves(U,julian)* -> .
+88[0:Inp] || loves(U,julian)* -> .
+89[0:Inp] || loves(U,julian)* -> .
+90[0:Inp] || loves(U,julian)* -> .
+91[0:Inp] || loves(U,julian)* -> .
+92[0:Inp] || loves(U,julian)* -> .
+93[0:Inp] || equal__dfg(U,julian)* -> .
+94[0:Inp] || loves(U,julian)* -> .
+95[0:Inp] || loves(U,julian)* -> .
+96[0:Inp] || woman(U) loves(U,julian)* -> .
+97[0:Inp] || loves(U,V)* rules(V) -> .
+98[0:Inp] || loves(U,V)* woman(V) -> .
+99[0:Inp] || loves(U,V)* woman(V) cunning(V) -> .
+100[0:Inp] || loves(U,V)* woman(V) cunning(V) -> .
+101[0:Inp] || loves(U,V)* woman(V) cunning(V) -> .
+ This is a first-order Horn problem without equality.
+ This is a problem that has, if any, a finite domain model.
+ There are no function symbols.
+ This is a problem that contains sort information.
+ Axiom clauses: 0 Conjecture clauses: 101
+ Inferences: IEmS=1 ISoR=1 IORe=1 
+ Reductions: RFMRR=1 RBMRR=1 RObv=1 RUnC=1 RTaut=1 RSST=1 RSSi=1 RFSub=1 RBSub=1 RCon=1 
+ Extras    : No Input Saturation, Always Selection, No Splitting, Full Reduction,  Ratio: 5, FuncWeight: 1, VarWeight: 1
+ Precedence: loves > woman > rules > equal__dfg > cunning > julian > mary
+ Ordering  : KBO
+Processed Problem:
+
+Worked Off Clauses:
+
+Usable Clauses:
+4[0:Inp] || cunning(julian)* -> .
+1[0:Inp] || rules(julian)* -> .
+3[0:Inp] rules(U) ||  -> .
+93[0:Inp] || equal__dfg(U,julian)* -> .
+42[0:Inp] || loves(U,V)* -> .
+	Given clause: 4[0:Inp] || cunning(julian)*+ -> .
+	Given clause: 1[0:Inp] || rules(julian)*+ -> .
+	Given clause: 3[0:Inp] rules(U) ||  -> .
+	Given clause: 93[0:Inp] || equal__dfg(U,julian)*+ -> .
+	Given clause: 42[0:Inp] || loves(U,V)*+ -> .
+SPASS V 3.7 
+SPASS beiseite: Completion found.
+Problem: spass.txt 
+SPASS derived 0 clauses, backtracked 0 clauses, performed 0 splits and kept 7 clauses.
+SPASS allocated 30107 KBytes.
+SPASS spent	0:00:00.06 on the problem.
+		0:00:00.03 for the input.
+		0:00:00.02 for the FLOTTER CNF translation.
+		0:00:00.00 for inferences.
+		0:00:00.00 for the backtracking.
+		0:00:00.00 for the reduction.
+
+
+ The saturated set of worked-off clauses is :
+42[0:Inp] || loves(U,V)*+ -> .
+93[0:Inp] || equal__dfg(U,julian)*+ -> .
+3[0:Inp] rules(U) ||  -> .
+1[0:Inp] || rules(julian)*+ -> .
+4[0:Inp] || cunning(julian)*+ -> .
+--------------------------SPASS-STOP------------------------------

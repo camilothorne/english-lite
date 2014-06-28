@@ -1,0 +1,1936 @@
+*** allocated 10000 integers for clauses
+Bliksem 1.12
+
+
+
+Push quantifiers inward:
+man( $VAR( 0 ) ) -> ! woman( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! man( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! man( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! ! man( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! man( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! woman( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! woman( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! ! woman( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! ! woman( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! ! woman( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! man( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! ! man( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! ! man( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! woman( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! woman( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! ! man( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! ! man( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! ! man( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! woman( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! ! man( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! ! man( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! man( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! woman( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! woman( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! woman( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! man( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! woman( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! man( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! woman( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! ! man( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! man( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! woman( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! ! man( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! woman( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! ! man( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! ! woman( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! man( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! ! man( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! woman( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! ! man( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! woman( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! woman( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! woman( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! woman( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! ! man( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! ! man( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! man( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! ! man( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! man( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! man( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! ! woman( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! woman( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! ! man( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! ! woman( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! man( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! woman( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! ! woman( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! woman( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! ! man( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! man( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! woman( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! man( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! man( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! man( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! woman( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! ! woman( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! ! woman( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! woman( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! ! woman( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! man( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! ! woman( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! woman( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! woman( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! man( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! ! man( $VAR( 0 ) ).
+man( $VAR( 0 ) ) -> ! ! woman( $VAR( 0 ) ).
+woman( $VAR( 0 ) ) -> ! ! woman( $VAR( 0 ) ).
+Nnf:
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+Skolemization:
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+Nnf:
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+Factor:
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+Clauses:
+{ ! man( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), woman( $VAR( 0 ) ) }.
+Conversion number 2, one sided structural.
+
+
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+
+
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+
+
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+
+
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+
+
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+
+
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+
+
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+
+
+Nnf:
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+Structural:
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+Nnf:
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+Skolemization:
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+Nnf:
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+Factor:
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! woman( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | ! man( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | man( $VAR( 0 ) ).
+[ A ] ! man( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+[ A ] ! woman( $VAR( 0 ) ) | woman( $VAR( 0 ) ).
+Clauses:
+{ ! man( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! woman( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), ! man( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), man( $VAR( 0 ) ) }.
+{ ! man( $VAR( 0 ) ), woman( $VAR( 0 ) ) }.
+{ ! woman( $VAR( 0 ) ), woman( $VAR( 0 ) ) }.
+Conversion number 4, Two variable class.
+
+
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+
+
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+
+
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+Auto.
+
+
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+{ Auto }.
+
+
+
+
+useparamod =        0
+useeqfact =         0
+usesimpsplitting =  0
+usesimpres =        0
+resimpinuse      =  1000
+substype =          snl1
+selectoldest =      3
+litorderings [0] =  split
+litorderings [2] =  extend the termordering, first sorting on predicates
+termordering =      none
+litapriori =        1
+litaposteriori =    0
+demodaposteriori =  0
+
+
+maxdepth =          30000
+maxnrvars =         195
+increasemaxweight = 0
+maxselected =       10000000
+
+showkept =         0
+showdeleted =      0
+showstatus =       2000
+prologoutput =     0
+totalproof =       0
+Symbols occurring in the translation:
+{}  [0, 0]      (w:1, o:2, a:1, s:1, b:0), 
+!  [4, 1]      (w:0, o:8, a:1, s:1, b:0), 
+==>  [14, 2]      (w:1, o:0, a:0, s:1, b:0), 
+0  [36, 0]      (w:1, o:5, a:1, s:1, b:0), 
+man  [38, 1]      (w:1, o:14, a:1, s:1, b:0), 
+
+Starting Search:
+Resimplifying inuse:
+
+
+
+(3) {G0,W3,D3,L1,V0,M1} I;f { ! woman( $VAR( 0 ) ) }.
+
+found a saturation!
+Memory use:
+space for terms:        5068
+
+clauses generated:      153
+clauses selected:       3
+clauses inuse deleted:  0
+subsentry:          134
+literals matched:   134
+
+
+null

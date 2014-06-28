@@ -1,0 +1,4809 @@
+
+ 
+tokenized:[no, man, loves, somebody]
+
+normalized meaning representation:
+
+lambda:all(_G2532, imp(man(_G2532), not(some(_G2742, loves(_G2532, _G2742)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2373, imp(woman(_G2373), not(not(woman(_G2373)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(woman(_G2343), not(man(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(woman(_G2343), not(man(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2373, imp(woman(_G2373), not(not(woman(_G2373)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(woman(_G2343), not(man(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[no, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2373, imp(woman(_G2373), not(not(woman(_G2373)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(woman(_G2355), not(not(man(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(man(_G2355), not(not(woman(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(man(_G2343), not(woman(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[no, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(man(_G2355), not(not(woman(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[no, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2337, imp(man(_G2337), not(not(man(_G2337)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2373, imp(woman(_G2373), not(not(woman(_G2373)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(man(_G2355), not(not(woman(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[no, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2373, imp(woman(_G2373), not(not(woman(_G2373)))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[every, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(man(_G2343), not(woman(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(woman(_G2343), not(man(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[no, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(man(_G2355), not(not(woman(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(man(_G2355), not(not(woman(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(man(_G2355), not(not(woman(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(man(_G2355), not(not(woman(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2337, imp(man(_G2337), not(not(man(_G2337)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(man(_G2343), not(woman(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(woman(_G2355), not(not(man(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(man(_G2343), not(woman(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(woman(_G2355), not(not(man(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[no, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2373, imp(woman(_G2373), not(not(woman(_G2373)))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[no, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(woman(_G2355), not(not(man(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2337, imp(man(_G2337), not(not(man(_G2337)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(woman(_G2343), not(man(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[no, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2373, imp(woman(_G2373), not(not(woman(_G2373)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(woman(_G2343), not(man(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(man(_G2355), not(not(woman(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(woman(_G2355), not(not(man(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[no, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(woman(_G2355), not(not(man(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2337, imp(man(_G2337), not(not(man(_G2337)))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[every, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(man(_G2343), not(woman(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2337, imp(man(_G2337), not(not(man(_G2337)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(woman(_G2343), not(man(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[no, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(woman(_G2355), not(not(man(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[no, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2337, imp(man(_G2337), not(not(man(_G2337)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(woman(_G2343), not(man(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(woman(_G2343), not(man(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[every, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(woman(_G2343), not(man(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(man(_G2355), not(not(woman(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(man(_G2355), not(not(woman(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2337, imp(man(_G2337), not(not(man(_G2337)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2373, imp(woman(_G2373), not(not(woman(_G2373)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(man(_G2343), not(woman(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2337, imp(man(_G2337), not(not(man(_G2337)))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[no, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(man(_G2355), not(not(woman(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[no, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2337, imp(man(_G2337), not(not(man(_G2337)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2373, imp(woman(_G2373), not(not(woman(_G2373)))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[no, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(man(_G2355), not(not(woman(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(man(_G2355), not(not(woman(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2373, imp(woman(_G2373), not(not(woman(_G2373)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(woman(_G2355), not(not(man(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(man(_G2355), not(not(woman(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[every, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(woman(_G2343), not(man(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2373, imp(woman(_G2373), not(not(woman(_G2373)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(man(_G2343), not(woman(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(woman(_G2355), not(not(man(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[no, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(man(_G2355), not(not(woman(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2337, imp(man(_G2337), not(not(man(_G2337)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(man(_G2343), not(woman(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[no, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(man(_G2355), not(not(woman(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[no, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(man(_G2355), not(not(woman(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2337, imp(man(_G2337), not(not(man(_G2337)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2373, imp(woman(_G2373), not(not(woman(_G2373)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2373, imp(woman(_G2373), not(not(woman(_G2373)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(man(_G2355), not(not(woman(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[no, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2337, imp(man(_G2337), not(not(man(_G2337)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(woman(_G2343), not(man(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(man(_G2355), not(not(woman(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[every, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(man(_G2343), not(woman(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(woman(_G2343), not(man(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(man(_G2343), not(woman(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[every, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(woman(_G2343), not(man(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[no, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(man(_G2355), not(not(woman(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(woman(_G2355), not(not(man(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2373, imp(woman(_G2373), not(not(woman(_G2373)))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(man(_G2355), not(not(woman(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(man(_G2355), not(not(woman(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(woman(_G2355), not(not(man(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2337, imp(man(_G2337), not(not(man(_G2337)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(woman(_G2343), not(man(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(man(_G2355), not(not(woman(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(man(_G2355), not(not(woman(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(man(_G2343), not(woman(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(woman(_G2343), not(man(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2337, imp(man(_G2337), not(not(man(_G2337)))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[no, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(woman(_G2355), not(not(man(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2373, imp(woman(_G2373), not(not(woman(_G2373)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[no, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2373, imp(woman(_G2373), not(not(woman(_G2373)))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(man(_G2343), not(woman(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(woman(_G2355), not(not(man(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[no, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(woman(_G2355), not(not(man(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2337, imp(man(_G2337), not(not(man(_G2337)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(woman(_G2343), not(man(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(woman(_G2343), not(man(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(man(_G2355), not(not(woman(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2373, imp(woman(_G2373), not(not(woman(_G2373)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2373, imp(woman(_G2373), not(not(woman(_G2373)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(woman(_G2355), not(not(man(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2337, imp(man(_G2337), not(not(man(_G2337)))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2373, imp(woman(_G2373), not(not(woman(_G2373)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2373, imp(woman(_G2373), not(not(woman(_G2373)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(man(_G2343), not(woman(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(woman(_G2355), not(not(man(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(woman(_G2355), not(not(man(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(woman(_G2343), not(man(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[no, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2337, imp(man(_G2337), not(not(man(_G2337)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(woman(_G2355), not(not(man(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(woman(_G2355), not(not(man(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(man(_G2343), not(woman(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[every, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(man(_G2343), not(woman(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2337, imp(man(_G2337), not(not(man(_G2337)))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[every, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(woman(_G2343), not(man(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[no, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(man(_G2355), not(not(woman(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(man(_G2355), not(not(woman(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(man(_G2355), not(not(woman(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2337, imp(man(_G2337), not(not(man(_G2337)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(woman(_G2355), not(not(man(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[every, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(man(_G2343), not(woman(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(man(_G2343), not(woman(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2337, imp(man(_G2337), not(not(man(_G2337)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(woman(_G2355), not(not(man(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2337, imp(man(_G2337), not(not(man(_G2337)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[no, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2337, imp(man(_G2337), not(not(man(_G2337)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(woman(_G2355), not(not(man(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(man(_G2343), not(woman(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(woman(_G2343), not(man(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2337, imp(man(_G2337), not(not(man(_G2337)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(woman(_G2343), not(man(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(man(_G2343), not(woman(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[no, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(woman(_G2355), not(not(man(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(woman(_G2355), not(not(man(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[no, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2373, imp(woman(_G2373), not(not(woman(_G2373)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(woman(_G2343), not(man(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2337, imp(man(_G2337), not(not(man(_G2337)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(woman(_G2355), not(not(man(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(man(_G2343), not(woman(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2337, imp(man(_G2337), not(not(man(_G2337)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2337, imp(man(_G2337), not(not(man(_G2337)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[no, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(woman(_G2355), not(not(man(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[no, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2373, imp(woman(_G2373), not(not(woman(_G2373)))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2337, imp(man(_G2337), not(not(man(_G2337)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2373, imp(woman(_G2373), not(not(woman(_G2373)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(man(_G2355), not(not(woman(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(woman(_G2355), not(not(man(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(woman(_G2343), not(man(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(man(_G2343), not(woman(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(woman(_G2343), not(man(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(woman(_G2343), not(man(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(woman(_G2343), not(man(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[every, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(man(_G2343), not(woman(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(man(_G2355), not(not(woman(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[no, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2373, imp(woman(_G2373), not(not(woman(_G2373)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(man(_G2343), not(woman(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(man(_G2355), not(not(woman(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[every, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(woman(_G2343), not(man(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2373, imp(woman(_G2373), not(not(woman(_G2373)))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[every, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2361, imp(woman(_G2361), not(woman(_G2361))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[every, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2343, imp(man(_G2343), not(woman(_G2343))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[every, man, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2325, imp(man(_G2325), not(man(_G2325))))
+
+type:t
+
+context:[]
+
+
+ 
+tokenized:[no, woman, is, not, a, man]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(woman(_G2355), not(not(man(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, man, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2355, imp(man(_G2355), not(not(woman(_G2355)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+tokenized:[no, woman, is, not, a, woman]
+
+normalized meaning representation:
+
+lambda:all(_G2373, imp(woman(_G2373), not(not(woman(_G2373)))))
+
+type:t
+
+context:[]
+
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
+
+ 
+No parse!
