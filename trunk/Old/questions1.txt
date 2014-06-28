@@ -1,0 +1,59 @@
+
+> 
+
+[is, julian, a, man]
+
+Normalized meaning representation:
+
+man(julian)
+
+O.K.
+
+
+> 
+
+[does, somebody, love, julian, and, rules]
+
+Normalized meaning representation:
+
+some(_G2518, and(rules(_G2518), loves(_G2518, julian)))
+
+O.K.
+
+
+> 
+
+[does, mary, love, julian]
+
+Normalized meaning representation:
+
+loves(mary, julian)
+
+O.K.
+
+
+> 
+
+[is, julian, a, cunning, man]
+
+Normalized meaning representation:
+
+and(cunning(julian), man(julian))
+
+O.K.
+
+
+> 
+
+[does, somebody, love, some, woman]
+
+Normalized meaning representation:
+
+some(_G6344, some(_G6443, and(woman(_G6443), loves(_G6344, _G6443))))
+
+O.K.
+
+
+> 
+
+Bye!

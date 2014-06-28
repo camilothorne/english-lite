@@ -1,0 +1,308 @@
+
+Auto.
+
+([ A ](man($VAR(0)) -> !woman($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !man($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !man($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !!man($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !man($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !woman($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !woman($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !!woman($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !!woman($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !!woman($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !man($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !!man($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !!man($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !woman($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !woman($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !!man($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !!man($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !!man($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !woman($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !!man($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !!man($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !man($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !woman($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !woman($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !woman($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !man($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !woman($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !man($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !woman($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !!man($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !man($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !woman($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !!man($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !woman($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !!man($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !!woman($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !man($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !!man($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !woman($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !!man($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !woman($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !woman($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !woman($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !woman($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !!man($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !!man($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !man($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !!man($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !man($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !man($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !!woman($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !woman($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !!man($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !!woman($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !man($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !woman($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !!woman($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !woman($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !!man($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !man($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !woman($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !man($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !man($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !man($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !woman($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !!woman($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !!woman($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !woman($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !!woman($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !man($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !!woman($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !woman($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !woman($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !man($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !!man($VAR(0)))).
+
+Auto.
+
+([ A ](man($VAR(0)) -> !!woman($VAR(0)))).
+
+Auto.
+
+([ A ](woman($VAR(0)) -> !!woman($VAR(0)))).

@@ -1,0 +1,45 @@
+begin_problem(Unknown).
+
+list_of_descriptions.
+name({**}).
+author({**}).
+status(unknown).
+description({**}).
+end_of_list.
+
+list_of_symbols.
+  functions[(mary, 0), (julian, 0)].
+  predicates[(loves, 2), (man, 1), (cunning, 1), (woman, 1), (runs, 1)].
+end_of_list.
+
+list_of_formulae(axioms).
+end_of_list.
+
+list_of_formulae(conjectures).
+	formula(exists([U],loves(U,mary)),comsem).
+	formula(exists([U],and(man(U),loves(U,julian))),comsem).
+	formula(cunning(julian),comsem).
+	formula(exists([U],and(and(woman(U),and(loves(U,julian),exists([V],and(man(V),loves(U,V))))),loves(julian,U))),comsem).
+	formula(runs(julian),comsem).
+	formula(exists([U],and(man(U),runs(U))),comsem).
+	formula(exists([U],loves(U,mary)),comsem).
+	formula(exists([U],loves(U,mary)),comsem).
+	formula(exists([U],loves(U,mary)),comsem).
+	formula(exists([U],loves(U,mary)),comsem).
+	formula(exists([U],loves(U,mary)),comsem).
+	formula(exists([U],loves(U,mary)),comsem).
+	formula(exists([U],loves(U,mary)),comsem).
+	formula(exists([U],loves(U,mary)),comsem).
+	formula(exists([U],and(and(cunning(U),man(U)),loves(U,julian))),comsem).
+	formula(exists([U],and(cunning(U),man(U))),comsem).
+	formula(exists([U],and(man(U),loves(U,julian))),comsem).
+	formula(exists([U],loves(U,julian)),comsem).
+	formula(exists([U],loves(U,julian)),comsem).
+	formula(exists([U],loves(U,julian)),comsem).
+	formula(exists([U],loves(U,julian)),comsem).
+	formula(exists([U],loves(U,julian)),comsem).
+	formula(loves(julian,mary),comsem).
+	formula(exists([U],loves(U,julian)),comsem).
+end_of_list.
+
+end_problem.
