@@ -1,0 +1,1 @@
+Implementation of a Prolog semantic parser for controlled languages for the semantic web. The controlled languages are themselves fragments of Attempto Controlled English, [ACE](http://attempto.ifi.uzh.ch/site/), and are underpinned by the description logic DL-Lite.
